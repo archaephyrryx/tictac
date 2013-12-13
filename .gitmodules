@@ -1,0 +1,6 @@
+[submodule "tictac-c"]
+	path = tictac-c
+	url = git@github.com:archaephyrryx/tictac-c.git
+[submodule "tictac-python"]
+	path = tictac-python
+	url = git@github.com:archaephyrryx/tictac-python.git
